@@ -11,6 +11,3 @@ class Solution:
             else:
                 i+=1
         return m
-#exemple
-s=Solution()
-print(s.merge([[1,3],[2,6],[15,18],[8,10]]))
